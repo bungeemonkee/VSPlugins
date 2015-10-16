@@ -1,0 +1,4 @@
+﻿
+To deploy copy RegExcerciser.*.AddIn and RegExcerciser.dll into Documents\Visual Studio 2012\Addins and/or Documents\Visual Studio 2013\Addins
+
+You may need to create the directory.

@@ -1,0 +1,4 @@
+﻿
+To deploy copy VSEncoderizer.AddIn and the built dll (bin/Release/VSEncoderizer.dll) into Documents\Visual Studio 2012\Addins
+
+You may need to create the directory.
